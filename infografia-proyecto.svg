@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b5b47"/><stop offset="1" stop-color="#173f34"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<g opacity=".18" fill="#fff"><circle cx="1330" cy="170" r="180"/><circle cx="220" cy="740" r="250"/></g>
+<g transform="translate(1030 270)">
+ <rect x="0" y="130" width="420" height="230" rx="22" fill="#c98b55"/>
+ <rect x="25" y="155" width="370" height="180" rx="14" fill="#d9a06b"/>
+ <path d="M45 205h330M45 255h330M45 305h330" stroke="#9c683e" stroke-width="12"/>
+ <path d="M145 155v180M275 155v180" stroke="#9c683e" stroke-width="12"/>
+</g>
+<g transform="translate(1060 90)" fill="#b6e19f"><path d="M0 90C40 10 130 10 160 0c-8 65-65 115-160 90Z"/><path d="M170 120C220 45 315 50 350 35c-5 70-75 115-180 85Z"/><path d="M100 160C125 90 205 80 245 80c-15 55-60 95-145 80Z"/></g>
+<text x="90" y="150" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="700">Ladrillos de concreto</text>
+<text x="90" y="225" fill="#b6e19f" font-family="Arial,sans-serif" font-size="46" font-weight="700">+ bagazo de caña</text>
+<text x="90" y="285" fill="#e7f2ed" font-family="Arial,sans-serif" font-size="27">Mampostería no estructural · propuesta experimental</text>
+</svg>

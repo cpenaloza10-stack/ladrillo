@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<rect width="1200" height="650" rx="28" fill="#f3f8f4"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g transform="translate(70 120)"><circle cx="120" cy="90" r="65" fill="#b6e19f"/><text x="120" y="98" font-size="52">🌱</text><text x="120" y="190" font-size="25" font-weight="700" fill="#173f34">Bagazo</text></g>
+<g transform="translate(410 120)"><circle cx="120" cy="90" r="65" fill="#d9a06b"/><text x="120" y="98" font-size="52">▦</text><text x="120" y="190" font-size="25" font-weight="700" fill="#173f34">Procesamiento</text></g>
+<g transform="translate(750 120)"><circle cx="120" cy="90" r="65" fill="#a7d98f"/><text x="120" y="98" font-size="52">＋</text><text x="120" y="190" font-size="25" font-weight="700" fill="#173f34">Mezcla</text></g>
+<g transform="translate(410 380)"><rect width="480" height="150" rx="25" fill="#fff" stroke="#cbded2" stroke-width="3"/><text x="240" y="62" font-size="30" font-weight="700" fill="#173f34">0% · 5% · 10% · 15%</text><text x="240" y="105" font-size="22" fill="#49665a">Reemplazo experimental de agregado</text></g>
+</g>
+</svg>

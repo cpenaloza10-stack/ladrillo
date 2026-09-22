@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430">
+<rect width="1400" height="430" rx="28" fill="#f7faf8"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g transform="translate(45 90)"><rect width="170" height="170" rx="24" fill="#b6e19f"/><text x="85" y="82" font-size="55">🌾</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Bagazo</text></g>
+<text x="245" y="180" font-size="45" fill="#5d806f">→</text>
+<g transform="translate(275 90)"><rect width="170" height="170" rx="24" fill="#e8d6b8"/><text x="85" y="82" font-size="55">⌁</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Limpieza</text></g>
+<text x="475" y="180" font-size="45" fill="#5d806f">→</text>
+<g transform="translate(505 90)"><rect width="170" height="170" rx="24" fill="#f2e1a7"/><text x="85" y="82" font-size="55">☀</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Secado</text></g>
+<text x="705" y="180" font-size="45" fill="#5d806f">→</text>
+<g transform="translate(735 90)"><rect width="170" height="170" rx="24" fill="#d9a06b"/><text x="85" y="82" font-size="55">⚙</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Triturado</text></g>
+<text x="935" y="180" font-size="45" fill="#5d806f">→</text>
+<g transform="translate(965 90)"><rect width="170" height="170" rx="24" fill="#c9d9e8"/><text x="85" y="82" font-size="55">▦</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Tamizado</text></g>
+<text x="1165" y="180" font-size="45" fill="#5d806f">→</text>
+<g transform="translate(1195 90)"><rect width="170" height="170" rx="24" fill="#a7d98f"/><text x="85" y="82" font-size="55">＋</text><text x="85" y="130" font-size="22" font-weight="700" fill="#173f34">Mezcla</text></g>
+</g>
+</svg>
